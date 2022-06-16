@@ -25,6 +25,10 @@ def teste(numero):
     return "Não pertence a sequência"
 
 def main():
+    print(teste(144))
+    print(teste(18))
+    print(teste(1597))
+    print(teste(1964))
 
 if __name__ == "__main__":
     main()
