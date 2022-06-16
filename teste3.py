@@ -1,5 +1,4 @@
 import json
-from shutil import which
 
 def maior_valor_dos_dados(dados):
     valor = 0
