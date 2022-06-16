@@ -18,7 +18,5 @@ def main():
     for ele in dados:
         print(f'{ele["estado"]}: {round(porcentagem(valor_total, ele["valor"]), 2)}%')
 
-    
-
 if __name__ == "__main__":
     main()
